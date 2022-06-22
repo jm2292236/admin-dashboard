@@ -10,7 +10,7 @@ import { Ecommerce, Orders, Calendar, Employees, Stacked, Pyramid, Customers,
 import './App.css';
 
 function App() {
-    const activeMenu = false;
+    const activeMenu = true;
 
     return (
         <div>
